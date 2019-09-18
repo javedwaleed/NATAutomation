@@ -3,6 +3,8 @@ public class GitTest {
         System.out.println("1");
         System.out.println("ABC");
         System.out.println("DEF");
+        System.out.println("GHIJKLMNOPQRST");
+        System.out.println("UVWXYZ")
 
     }
 }
