@@ -4,7 +4,8 @@ public class GitTest {
         System.out.println("ABC");
         System.out.println("DEF");
         System.out.println("GHIJKLMNOPQRST");
-        System.out.println("UVWXYZ")
+        System.out.println("UVWXYZ");
+        System.out.println("I Love Java");
 
     }
 }
