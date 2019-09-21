@@ -10,7 +10,7 @@ public class NameLocator {
        driver.get("http://www.facebook.com");
 
        driver.findElement(By.name("firstname")).sendKeys("Waleed");
-       Thread.sleep(2000);
+
        driver.findElement(By.name("lastname")).sendKeys("Javed");
        Thread.sleep(2000);
        driver.findElement(By.name("reg_email__")).sendKeys("2819147129");
